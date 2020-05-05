@@ -3,6 +3,7 @@ from selenium import webdriver
 from selenium.webdriver.support.ui import Select
 from twilio.rest import Client
 
+# FILL OUT THESE FIELDS TO MATCH YOUR DATA
 semester = "fall"
 course_sched_num = "num"
 class_num = "num"
