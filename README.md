@@ -2,6 +2,8 @@
 A collection of python scripts that make up for faults in UT's registration system.
 
 # Usage
+Foremost, you must install python, selenium, and twilio.
+
 In autoadd.py, there are several variables that you have to change.
 
 semester is the semester for which you want to register
